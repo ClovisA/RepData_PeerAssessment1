@@ -347,3 +347,8 @@ xyplot(steps ~ interval | weekday, data=difference, layout=c(1,2), type="l")
 
 ![plot of chunk xyplot difference](figure/xyplot difference.png) 
 
+_Conclusion_:
+
+During the weekend, the subject seems to be constantly active regarding the number of steps all along
+the day whereas she or he has more variation in terms of number of steps during the weekdays.
+This shows two different patterns reflecting an activity more related to her or his work during the weekdays.
